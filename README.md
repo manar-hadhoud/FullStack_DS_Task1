@@ -118,3 +118,10 @@ Response:
 {
   "summary": "This is the summarized version of the provided text."
 }
+
+
+RUN SAMPLES:
+![Image](https://github.com/user-attachments/assets/8bbb6b97-de57-4064-8efe-4d575905a69e)
+![Image](https://github.com/user-attachments/assets/57238838-95a1-4666-b84b-f0e9179172c9)
+![Image](https://github.com/user-attachments/assets/2226d2d4-3b91-4468-ac2a-4859877d5fc8)
+![Image](https://github.com/user-attachments/assets/1fb04eda-880d-4ad3-9657-ca21b2a62f07)
