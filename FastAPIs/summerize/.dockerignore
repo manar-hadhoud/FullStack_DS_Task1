@@ -1,0 +1,2 @@
+# You may also want to ignore local configuration or test directories
+__pycache__/

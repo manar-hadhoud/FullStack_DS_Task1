@@ -1,0 +1,16 @@
+#Ignore virtual environment
+venv/
+Routers/
+summerize
+
+
+# Ignore other common files that are not necessary in the image
+*.log
+*.tmp
+
+# Ignore .git directory (if you’re using Git)
+.git/
+
+
+# You may also want to ignore local configuration or test directories
+__pycache__/

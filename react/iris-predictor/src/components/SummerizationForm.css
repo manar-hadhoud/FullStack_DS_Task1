@@ -1,0 +1,89 @@
+/* General Styling */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 60px;
+}
+  
+/* Container */
+.text-summerization {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 60px;
+    background: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+  
+/* Heading */
+.text-summerization h1 {
+    font-size: 2.5em;
+    color: #333;
+    margin-bottom: 20px;
+}
+  
+/* Textarea Styling */
+.input-text {
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    font-size: 1em;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    resize: none;
+    outline: none;
+    transition: border-color 0.3s ease;
+}
+  
+.input-text:focus {
+    border-color: #007bff;
+}
+  
+/* Button Styling */
+.submit-button {
+    background-color: #007bff;
+    color: #ffffff;
+    font-size: 1em;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+  
+.submit-button:hover {
+    background-color: #0056b3;
+}
+  
+/* Output Section */
+.output-section {
+    margin-top: 30px;
+    text-align: left;
+}
+  
+.output-section h2 {
+    font-size: 1.5em;
+    color: #333;
+}
+  
+.error-message {
+    color: red;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.generated-text {
+    background: #f8f9fa;
+    padding: 15px;
+    border-radius: 8px;
+    font-size: 1.2em; /* Increase font size */
+    font-weight: 500; /* Optional: Make the text slightly bold */
+    line-height: 1.6; /* Optional: Improve readability with line spacing */
+    border: 1px solid #ddd;
+    white-space: pre-wrap; /* Preserve line breaks */
+}
+  
